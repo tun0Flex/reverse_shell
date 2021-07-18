@@ -1,0 +1,5 @@
+colorama
+typing 
+os
+subprocess
+socket

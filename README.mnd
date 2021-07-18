@@ -1,0 +1,9 @@
+shell:
+    Shell (shell) is a UNIX term for a user interface that interacts with the operating system.
+    The shell is the programming layer that understands and executes commands entered by the user.
+    In this way, users' computer commands, etc. allowed to manage transactions.
+
+Reverse Shell:
+    A Reverse Shell is a type of shell in which the target machine communicates with the attacking machine.
+    The attacking machine has a listener port on which it receives the connection obtained using code or executing a command.
+    When the target machine connects to this port, the attacker will have taken over the target machine.
